@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather" /> <!--shujuku mingzi-->
+    <version value="1" /> <!--banben-->
+    <list>
+        <mapping class="com.coolweather.android.db.Province"/>
+        <mapping class="com.coolweather.android.db.City"/>
+        <mapping class="com.coolweather.android.db.County"/>
+    </list>
+</litepal>
